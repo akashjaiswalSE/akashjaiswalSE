@@ -10,10 +10,10 @@
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer with **6+ years** of experience
-- 🌱 Currently learning **DSA, System Design, AI/ML, and Cloud**
-- ⚡ Skilled in **Java, Python, Angular, React, SQL, NoSQL**
+- 🌱 Currently learning **AI/ML, Cloud, Data Science, IOT, Robotics**
+- ⚡ Skilled in **DSA, System Design, Java, Python, Angular, React, SQL, NoSQL**
 - 🔧 Worked with **Docker, Kubernetes, Jenkins, Git, Camunda**
-- 🏦 Experience in **Investment Banking & Logistics domains**
+- 🏦 Experience in **Logistics & Investment Banking domains**
 - 🎯 Preparing for **MAANG/FAANG-level engineering roles**
 - 📚 Love learning technology, building projects, and solving problems
 
