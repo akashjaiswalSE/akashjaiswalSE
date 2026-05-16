@@ -19,7 +19,6 @@
 - 🌐 New to Open Source
 - ⚡ Fun fact: I love tech, music, games and hiking
 - 📫 How to reach me: akashjaiswalSE@gmail.com
-- 🌐 Portfolio — Explore my journey, projects, and blogs all in one place!
 
 ---
 
@@ -50,13 +49,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashjaiswalSE&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashjaiswalSE&show_icons=true&theme=tokyonight&count_private=true" />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akashjaiswalSE&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=akashjaiswalSE&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashjaiswalSE&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashjaiswalSE&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
