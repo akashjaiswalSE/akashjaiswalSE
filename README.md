@@ -46,20 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashjaiswalSE&show_icons=true&theme=tokyonight&count_private=true" />
-  
-  <img height="180em" src="https://streak-stats.demolab.com?user=akashjaiswalSE&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashjaiswalSE&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
